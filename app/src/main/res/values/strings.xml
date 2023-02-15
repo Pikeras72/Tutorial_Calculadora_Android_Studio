@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tutorial Android Studio</string>
+    <string name="btn_txt_suma">Suma</string>
+    <string name="btn_txt_resta">Resta</string>
+    <string name="btn_txt_multiplicación">Multiplicación</string>
+    <string name="btn_txt_division">División</string>
+    <string name="btn_txt_politicas">Políticas de Privacidad</string>
+    <string name="btn_txt_main">Volver al Inicio</string>
+    <string name="txt_hint_numero">Escribe aquí un número</string>
+</resources>
